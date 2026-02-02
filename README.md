@@ -11,4 +11,5 @@ This project is a hardware-verified implementation of a UART communication block
 ## Simulation Result
 The waveform below shows the successful transmission and reception of a test byte.
 
-<img src="uart_successful_ss.jpg" width="850">
+<img width="1920" height="1080" alt="uart_successful_ss" src="https://github.com/user-attachments/assets/2d40e907-cb35-4b1b-a471-a2fe318ecc78" />
+
